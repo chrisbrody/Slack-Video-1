@@ -1,0 +1,57 @@
+SLACK 1.1
+Hey everybody, this is Chris with Codify Academy.
+In this video we are going to show yo how to sign up for Slack and download it for your devices.
+
+SLACK 1.2
+First we're gonna sign up for slack.
+Check your email, you should have one with a subject line like: 
+Someone has invited you to join a slack team.
+Go ahead and open that up, you will see a green join now button, and click on that.
+
+SLACK 1.3
+You will be prompted to Join the Slack team for Codify Academy.
+Your first and last name should be pre populated, but if not just add them in.
+Below that is your username. 
+Just use your first and last name with all lowercase letters and now spaces.
+I set up a fake account so my username is already taken, ill use an underscore for now.
+Then after that click off the checkbox below. 
+You don't need to receive emails about the Slack service.
+
+SLACK 1.4
+On the next screen you'll set a password, their requirement is 6 characters 
+and can't be easy to discover passwords like 123456.
+Once you're done with that the final screen for joining is agreeing to the terms of service, 
+give them a quick read and click the I agree button at the bottom.
+
+SLACK 1.5
+GOOD JOB! now we are in slack. 
+If you have never used a communication tool like slack, 
+I would recommend going through the tutorial, it only take s few minutes.
+
+SLACK 1.6
+We dont need to cover that. We need to add a profile picture of you, your class date and phone #. 
+On the top left click where it says Codify Academy, then click Profile & account, then edit profile.
+Once there hover over the nice pattern on the right side of the screen. 
+A pop up will show up, click that so you can change add a profile picture, I'll use a place holder.
+Now we’re going to update "what I do" to say you are a student followed by your class start date. and finally add in your phone number and click save changes.
+
+SLACK 1.7
+Great all the housekeeping is down for slack, we just need to download it for your devices.
+In a browser type in slack.com/downloads and hit enter. 
+This will redirect you to the current operating system, so if I use PC it should looks like this.
+and if I use Mac is should look like this.
+Notice below we can enter your phone number in and slack will send you a download link for your phone
+you dont even have to search in the app store! Thanks for saving me time slack!
+
+
+SLACK 1.8
+While it downloads pause the video.
+Once slack is finished downloading you can sign in to your team by adding codifyacademy and click continue.
+Next you'll have to enter your email and click continue 
+Last is your password, add that and click continue. Wait for the program to load and awesome, it is working!
+
+SLACK 1.9
+Awesome, we signed up for slack and download it so we don't have to view it in a browser anymore, 
+Next we will get familiar with using slack
+
+Inna Semenyuk - marketing stratigists
